@@ -4,8 +4,8 @@ import MainCategory from './Components/Home/MainCategory.jsx'
 import Carousal from './Components/Home/Carousal.jsx'
 import CategoryItem from './Components/Home/CategoryItem.jsx'
 import BestdealsSmartphones from './Components/Home/BestdealsSmartphones.jsx'
-import SpecialDis3Banner from './Components/SpecialDis3Banner.jsx'
-import MultiProduct3Card from './Components/MultiProduct3Card.jsx'
+import SpecialDis3Banner from './Components/Home/SpecialDis3Banner.jsx'
+import MultiProduct3Card from './Components/Home/MultiProduct3Card.jsx'
 
 function App() {
 
