@@ -12,6 +12,8 @@ const categories = [
     { name: "Two Wheelers", image: "/images/two-wheelers.png", dropdown: true },
   ];
 
+
+  
 function MainCategory() {
   return (
       <div className="bg-gray-100 w-full py-3">

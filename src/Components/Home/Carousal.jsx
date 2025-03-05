@@ -5,10 +5,12 @@ import "slick-carousel/slick/slick-theme.css";
 
 const carouselData = [
   { id: 1, image: "/images/banner1.webp" },
-  { id: 2, image: "/images/banner2.png" },
-  { id: 3, image: "/images/banner3.png" },
-  { id: 4, image: "/images/banner4.png" },
+  { id: 2, image: "/images/banner2.webp" },
+  { id: 3, image: "/images/banner3.webp" },
+  { id: 4, image: "/images/banner4.webp" },
 ];
+
+
 
 const Carousal = () => {
   const settings = {
@@ -18,7 +20,7 @@ const Carousal = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 3000,
+    autoplaySpeed: 2000,
     arrows: true,
   };
 
