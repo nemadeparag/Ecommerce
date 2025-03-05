@@ -35,4 +35,5 @@ const Carousal = () => {
   );
 };
 
+
 export default Carousal;
