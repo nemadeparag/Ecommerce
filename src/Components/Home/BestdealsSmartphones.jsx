@@ -85,10 +85,10 @@ const BestdealsSmartphones = () => {
         slidesToShow: 5,
         slidesToScroll: 2,
         autoplay: false,
-        autoplaySpeed: 3000,
+        autoplaySpeed: 2250,
         arrows: true,
         prevArrow: <PrevButton />,
-    nextArrow: <NextButton />,
+        nextArrow: <NextButton />,
       };
 
       // Handle Click on Product

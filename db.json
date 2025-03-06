@@ -1,0 +1,1290 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "category": "Eclectronics",
+        "subcategory": "Smart Phones",
+        "categoryid": "Smart Phones",
+        "colors": ["Red", "Green", "Blue"],
+        "rams": [4, 6, 8],
+        "brand": "Poco",
+        "storages":[32,64,128],
+        "images":[],
+        "title": "POCO C61 (Ethereal Blue, 64 GB)  (4 GB RAM)",
+        "rating":4.3,
+        "reviews":[{
+            "rating": 5,
+            "title": "Great phone",
+            "description": "Great phone, works perfectly",
+            "date":""
+        }],
+        "price": 8999,
+        "discountedprice": 6499,
+        "discount": 30,
+        "isavailableoffers": true,
+        "availableoffers":[{
+            "name":"Bank Offer",
+            "description":"5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
+        },{
+            "name":"Bank Offer",
+            "description":"5% off up to ₹750 on IDFC FIRST Power Women Platinum and Signature Debit Cards. Min Txn Value: ₹5000"
+        },{
+            "name":"Speecial Offer",
+            "description":"Get extra ₹3100 off (price inclusive of cashback/coupon)"
+        }],
+        "iswarranty": true,
+        "delivery": 421002,
+        "deliverydate": "Delivery in2 Days, Saturday",
+        "highlights":["32 MB RAM | 32 MB ROM | Expandable Upto 8 GB","6.1 cm (2.4 inch) Display","8MP Rear Camera","4500 mAh Battery"],
+        "seller":"Flashtech Retail",
+        "shortdescription": "POCO C61 is a smartphone that redefines perfection in terms of both performance and elegance. Everywhere you go, with its exquisite Radiant Ring design and high-quality glass back, it makes a statement. Whether you're gaming at maximum speed or surfing via social media, the 90 Hz display guarantees a smooth experience. Furthermore, with Corning Gorilla Glass 3 Protection installed, the POCO C61 provides unparalleled resistance to scuffs and falls. The fingerprint sensor that is integrated into your phone makes unlocking it fast and safe, and its robust RAM makes multitasking easy. Additionally, take stylish pictures of any moment with the 8 MP AI Dual Camera and the included vintage effects. Plus, make use of the enormous 5000 mAh Weekend battery and the quick 10 W Type-C charging for endless pleasure. By selecting the POCO C61, you can get unprecedented levels of mobile experience.",
+        "fulldescription" : [{"title": "Radiant Ring Design", "description": "Envision possessing an object of ultimate elegance in your grasp. The Radiant Ring design of the POCO C61 feels like a seamless extension of your personal style in addition to being visually appealing. It's more than simply a phone with its high-quality glass back—it's a fashion statement.", "image": "imagelink"},
+         {"title": "Vibrant Display", "description": "Experience a world of unmatched visual bliss with the 90 Hz display on the POCO C61. Every swipe and press feels like a smooth, responsive tango, whether you're playing fast-paced video games or browsing through your social media feed.", "image": "imagelink"}],
+        "specification":[ {
+            "specificationtype": "General",
+            "inthebox":"Handset, 10W Charger, USB Type-C Cable, Sim Eject Tool, Protective Case, Quick Start Guide, Warranty Card",
+            "modelnumber":"MZB0GO0IN",
+            "modelname": "C61",
+            "color": "Ethereal Blue",
+            "phonetype": "Smartphones",
+            "touchscreen": "Yes",
+            "quickcharging": "Yes"
+        },
+        {
+            "specificationtype":"displayfeatures",
+            "displaysize":"17.04 cm (6.71 inch)",
+            "displayresolution":"1650 x 720 Pixels"
+        },
+        {
+            "specificationtype":"operatingsystem",
+            "os":"Android 14",
+            "processorbrand":"Mediatek",
+            "processorname":"Helio G36",
+            "processorcore":"Octa Core",
+            "clockspeed":"2.2 GHz"
+        },
+        {
+            "specificationtype":"storage",
+            "internalstorage":"64 GB",
+            "ram":"4 GB",
+            "expandablestorage":"1 TB"
+        },
+        {
+            "specificationtype":"camera",
+            "primarycamera":"8MP Rear Camera",
+            "secondarycamera":"5MP Front Camera",
+            "flash":"Yes"
+        },
+        {
+            "specificationtype":"connectivity Features",
+            "networktype": "2G, 3G, 4G, 4G VOLTE",
+            "bluetooth":"Yes",
+            "wifi":"Yes",
+            "microusb":"Yes",
+            "gpssupport":"Yes"
+        },
+        {
+            "specificationtype":"battery",
+            "batterycapacity":"5000 mAh",
+            "batterytype":"Lithium Polymer"
+        },
+        {
+            "specificationtype":"dimensions",
+            "height": "168.4 mm",
+            "width": "76.3 mm",
+            "weight": "199 g"
+        },
+        {
+            "specificationtype":"Warranty",
+            "warrantysummary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In the Box Accessories",
+            "warrantyduration": "1 Year"
+        }
+    ] 
+
+      },
+
+
+
+
+
+          {
+            "id": 101,
+            "category": "Fashion",
+            "subcategory": "Jeans",
+            "categoryid": "Jeans",
+            "colors": ["Blue", "Black", "Grey", "White"],
+            "sizes": ["28", "30", "32", "34", "36", "38"],
+            "brand": "Levi's",
+            "materials": ["Denim", "Cotton", "Elastane"],
+            "images": ["image1link", "image2link", "image3link"],
+            "title": "Levi's 511 Slim Fit Jeans (Blue)",
+            "rating": 4.5,
+            "reviews": [
+              {
+                "rating": 5,
+                "title": "Perfect Fit!",
+                "description": "The jeans fit perfectly and are extremely comfortable.",
+                "date": "2025-03-05"
+              },
+              {
+                "rating": 4,
+                "title": "Good quality, but a little tight",
+                "description": "The quality is great, but the fit is slightly tight at first.",
+                "date": "2025-03-02"
+              }
+            ],
+            "price": 2999,
+            "discountedprice": 1999,
+            "discount": 33,
+            "isavailableoffers": true,
+            "availableoffers": [
+              {
+                "name": "Bank Offer",
+                "description": "10% Unlimited Cashback on HDFC Bank Debit Cards"
+              },
+              {
+                "name": "Combo Offer",
+                "description": "Buy 2 Get 1 Free on Selected Levi's Jeans"
+              }
+            ],
+            "iswarranty": false,
+            "delivery": 110001,
+            "deliverydate": "Delivery in 3-5 Days, Tuesday",
+            "highlights": [
+              "Slim fit design",
+              "Comfortable stretch fabric",
+              "Durable stitching and zippers",
+              "Classic 5-pocket style"
+            ],
+            "seller": "FashionHub",
+            "shortdescription": "Levi's 511 Slim Fit Jeans offer a stylish yet comfortable look with a perfect balance of stretch and durability. Ideal for casual wear, they provide an elegant fit with a modern touch. Made from high-quality denim fabric, these jeans ensure long-lasting wear with a contemporary, slim silhouette.",
+            "fulldescription": [
+              {
+                "title": "Slim Fit Design",
+                "description": "The 511 Slim Fit Jeans are tailored to provide a modern slim fit that comfortably hugs your legs without being too tight. They give you a sleek, stylish look while providing all-day comfort.",
+                "image": "imagelink"
+              },
+              {
+                "title": "Stretch Denim Fabric",
+                "description": "Made from a mix of denim and elastane, these jeans offer added stretch for flexibility and comfort, making them perfect for both work and play.",
+                "image": "imagelink"
+              }
+            ],
+            "specification": [
+              {
+                "specificationtype": "General",
+                "inthebox": "1 Pair of Levi's 511 Slim Fit Jeans",
+                "modelnumber": "LV511B",
+                "modelname": "511 Slim Fit",
+                "color": "Blue",
+                "material": "Denim",
+                "fit": "Slim",
+                "closure": "Button & Zipper",
+                "pocketstyle": "5-Pocket"
+              },
+              {
+                "specificationtype": "Sizing",
+                "waist": "28-38 inches",
+                "length": "30-34 inches",
+                "inseam": "32 inches"
+              },
+              {
+                "specificationtype": "Care Instructions",
+                "wash": "Machine wash cold, do not bleach, tumble dry low",
+                "iron": "Warm iron if needed",
+                "dryclean": "Do not dry clean"
+              },
+              {
+                "specificationtype": "Warranty",
+                "warrantysummary": "No warranty, returns accepted within 30 days of purchase",
+                "warrantyduration": "No warranty"
+              }
+            ]
+          },
+
+              {
+                "id": 201,
+                "category": "Fashion",
+                "subcategory": "Shirts",
+                "categoryid": "Shirts",
+                "colors": ["White", "Blue", "Grey", "Black"],
+                "sizes": ["S", "M", "L", "XL", "XXL"],
+                "brand": "Van Heusen",
+                "materials": ["Cotton", "Polyester"],
+                "images": ["image1link", "image2link", "image3link"],
+                "title": "Van Heusen Men's Slim Fit Shirt (White)",
+                "rating": 4.7,
+                "reviews": [
+                  {
+                    "rating": 5,
+                    "title": "Amazing fit and feel!",
+                    "description": "The shirt fits perfectly and feels extremely comfortable. The fabric is soft and breathable.",
+                    "date": "2025-03-01"
+                  },
+                  {
+                    "rating": 4,
+                    "title": "Good quality but needs ironing",
+                    "description": "The quality is great, but it wrinkles easily and needs ironing after washing.",
+                    "date": "2025-02-25"
+                  }
+                ],
+                "price": 1499,
+                "discountedprice": 999,
+                "discount": 33,
+                "isavailableoffers": true,
+                "availableoffers": [
+                  {
+                    "name": "Bank Offer",
+                    "description": "5% Cashback on SBI Debit and Credit Cards"
+                  },
+                  {
+                    "name": "Combo Offer",
+                    "description": "Buy 2 Shirts Get 1 Free"
+                  }
+                ],
+                "iswarranty": false,
+                "delivery": 110010,
+                "deliverydate": "Delivery in 2-4 Days, Thursday",
+                "highlights": [
+                  "Slim fit design for a modern look",
+                  "Breathable cotton-polyester fabric",
+                  "Button-down collar",
+                  "Ideal for both casual and formal wear"
+                ],
+                "seller": "StyleZone",
+                "shortdescription": "Van Heusen Men's Slim Fit Shirt offers a stylish and comfortable look, crafted from a blend of cotton and polyester. Whether you need it for work or a casual outing, this shirt combines elegance and breathability for all-day comfort.",
+                "fulldescription": [
+                  {
+                    "title": "Slim Fit Design",
+                    "description": "The slim fit design of this shirt ensures a modern and tailored appearance, making it perfect for both formal and casual occasions.",
+                    "image": "imagelink"
+                  },
+                  {
+                    "title": "Breathable Cotton-Polyester Blend",
+                    "description": "Crafted from a blend of cotton and polyester, this shirt is breathable, soft to the touch, and ideal for all-day wear in any season.",
+                    "image": "imagelink"
+                  }
+                ],
+                "specification": [
+                  {
+                    "specificationtype": "General",
+                    "inthebox": "1 Van Heusen Slim Fit Shirt",
+                    "modelnumber": "VH-SF01",
+                    "modelname": "Slim Fit",
+                    "color": "White",
+                    "material": "Cotton-Polyester Blend",
+                    "fit": "Slim",
+                    "collar": "Button-Down",
+                    "sleeve": "Full Sleeve"
+                  },
+                  {
+                    "specificationtype": "Sizing",
+                    "sizes": "S, M, L, XL, XXL",
+                    "chest": "36-44 inches",
+                    "length": "28-30 inches"
+                  },
+                  {
+                    "specificationtype": "Care Instructions",
+                    "wash": "Machine wash cold, do not bleach, tumble dry low",
+                    "iron": "Warm iron if needed",
+                    "dryclean": "Do not dry clean"
+                  },
+                  {
+                    "specificationtype": "Warranty",
+                    "warrantysummary": "No warranty, returns accepted within 30 days of purchase",
+                    "warrantyduration": "No warranty"
+                  }
+                ]
+              },
+
+                  {
+                    "id": 301,
+                    "category": "Electronics",
+                    "subcategory": "Laptops",
+                    "categoryid": "Laptops",
+                    "colors": ["Silver", "Black", "Grey"],
+                    "brands": ["Dell", "HP", "Lenovo"],
+                    "images": ["image1link", "image2link", "image3link"],
+                    "title": "Dell Inspiron 15 (Intel Core i5, 8GB RAM, 512GB SSD, Silver)",
+                    "rating": 4.6,
+                    "reviews": [
+                      {
+                        "rating": 5,
+                        "title": "Great performance for the price!",
+                        "description": "The laptop is fast, reliable, and offers excellent value for money. The display is crisp and clear.",
+                        "date": "2025-03-03"
+                      },
+                      {
+                        "rating": 4,
+                        "title": "Good laptop, but battery could be better",
+                        "description": "The laptop works well for most tasks, but the battery life could be longer.",
+                        "date": "2025-02-28"
+                      }
+                    ],
+                    "price": 54999,
+                    "discountedprice": 47999,
+                    "discount": 13,
+                    "isavailableoffers": true,
+                    "availableoffers": [
+                      {
+                        "name": "Bank Offer",
+                        "description": "10% Instant Discount on HDFC Bank Credit Cards"
+                      },
+                      {
+                        "name": "Exchange Offer",
+                        "description": "Get up to ₹5000 off on Exchange"
+                      }
+                    ],
+                    "iswarranty": true,
+                    "delivery": 110002,
+                    "deliverydate": "Delivery in 4-7 Days, Monday",
+                    "highlights": [
+                      "Intel Core i5 Processor (11th Gen)",
+                      "8 GB RAM, 512 GB SSD",
+                      "15.6-inch Full HD Display",
+                      "Windows 11 Pre-installed",
+                      "Lightweight and Portable"
+                    ],
+                    "seller": "TechWorld",
+                    "shortdescription": "The Dell Inspiron 15 laptop combines power and portability with its Intel Core i5 processor, 8GB RAM, and a 512GB SSD. Perfect for work, study, and entertainment, it features a crisp Full HD display and fast performance. Lightweight and easy to carry, it’s an ideal choice for everyday computing.",
+                    "fulldescription": [
+                      {
+                        "title": "Powerful Intel Core i5 Processor",
+                        "description": "Equipped with an Intel Core i5 processor (11th Gen), this laptop ensures smooth multitasking and fast performance for both work and play.",
+                        "image": "imagelink"
+                      },
+                      {
+                        "title": "Fast Storage with 512GB SSD",
+                        "description": "With 512GB SSD storage, the Dell Inspiron 15 ensures quick boot-ups, fast file transfers, and improved overall system performance.",
+                        "image": "imagelink"
+                      }
+                    ],
+                    "specification": [
+                      {
+                        "specificationtype": "General",
+                        "inthebox": "Laptop, Power Adapter, User Manual, Warranty Card",
+                        "modelnumber": "Inspiron 15 5000",
+                        "modelname": "Inspiron 15",
+                        "color": "Silver",
+                        "processor": "Intel Core i5 (11th Gen)",
+                        "ram": "8 GB",
+                        "storage": "512 GB SSD",
+                        "os": "Windows 11",
+                        "screen": "15.6-inch Full HD",
+                        "weight": "1.8 kg"
+                      },
+                      {
+                        "specificationtype": "Performance",
+                        "processorname": "Intel Core i5",
+                        "processorcore": "Quad Core",
+                        "clockspeed": "2.4 GHz",
+                        "graphics": "Intel Integrated Graphics"
+                      },
+                      {
+                        "specificationtype": "Connectivity",
+                        "wifi": "Wi-Fi 6",
+                        "bluetooth": "Bluetooth 5.0",
+                        "usb": "2 x USB 3.2, 1 x USB-C",
+                        "hdmi": "1 x HDMI",
+                        "audiojack": "3.5mm",
+                        "cardreader": "SD Card Reader"
+                      },
+                      {
+                        "specificationtype": "Battery",
+                        "batterycapacity": "42 Wh",
+                        "batterytype": "Lithium-Ion",
+                        "batterybackup": "Up to 8 hours"
+                      },
+                      {
+                        "specificationtype": "Dimensions",
+                        "height": "18.9 mm",
+                        "width": "359.5 mm",
+                        "depth": "235.5 mm"
+                      },
+                      {
+                        "specificationtype": "Warranty",
+                        "warrantysummary": "1 Year Manufacturer Warranty for Laptop and 6 Months Warranty for In the Box Accessories",
+                        "warrantyduration": "1 Year"
+                      }
+                    ]
+                  },
+
+                      {
+                        "id": 401,
+                        "category": "Fashion",
+                        "subcategory": "T-Shirts",
+                        "categoryid": "T-Shirts",
+                        "colors": ["Black", "White", "Red", "Blue", "Grey"],
+                        "sizes": ["S", "M", "L", "XL", "XXL"],
+                        "brand": "Nike",
+                        "materials": ["Cotton", "Polyester"],
+                        "images": ["image1link", "image2link", "image3link"],
+                        "title": "Nike Men's Sports T-Shirt (Black)",
+                        "rating": 4.8,
+                        "reviews": [
+                          {
+                            "rating": 5,
+                            "title": "Super Comfortable!",
+                            "description": "The fabric is soft and breathable. Perfect for workouts and casual wear.",
+                            "date": "2025-03-04"
+                          },
+                          {
+                            "rating": 4,
+                            "title": "Great fit, a little tight at first",
+                            "description": "The t-shirt fits well after a few washes, but it was a bit tight initially.",
+                            "date": "2025-02-28"
+                          }
+                        ],
+                        "price": 999,
+                        "discountedprice": 799,
+                        "discount": 20,
+                        "isavailableoffers": true,
+                        "availableoffers": [
+                          {
+                            "name": "Bank Offer",
+                            "description": "5% Instant Discount on ICICI Bank Credit and Debit Cards"
+                          },
+                          {
+                            "name": "Combo Offer",
+                            "description": "Buy 2 Get 1 Free on Selected Nike T-Shirts"
+                          }
+                        ],
+                        "iswarranty": false,
+                        "delivery": 110003,
+                        "deliverydate": "Delivery in 2-4 Days, Wednesday",
+                        "highlights": [
+                          "Made from soft cotton-polyester blend",
+                          "Breathable and lightweight",
+                          "Perfect for sports and casual wear",
+                          "Nike logo print on the front"
+                        ],
+                        "seller": "SportyStyles",
+                        "shortdescription": "The Nike Men's Sports T-Shirt combines comfort and style. Made from a soft cotton-polyester blend, this t-shirt is breathable, lightweight, and perfect for any athletic activity or casual outing. The iconic Nike logo adds a sporty touch to your look.",
+                        "fulldescription": [
+                          {
+                            "title": "Breathable Fabric",
+                            "description": "Crafted from a blend of cotton and polyester, this t-shirt is lightweight, breathable, and designed to keep you comfortable throughout the day.",
+                            "image": "imagelink"
+                          },
+                          {
+                            "title": "Sporty Design",
+                            "description": "The Nike logo on the front adds a touch of sporty style, making it a great choice for gym sessions, casual wear, or a workout.",
+                            "image": "imagelink"
+                          }
+                        ],
+                        "specification": [
+                          {
+                            "specificationtype": "General",
+                            "inthebox": "1 Nike Sports T-Shirt",
+                            "modelnumber": "NT101",
+                            "modelname": "Nike Sports",
+                            "color": "Black",
+                            "material": "Cotton-Polyester Blend",
+                            "fit": "Regular Fit",
+                            "neck": "Round Neck",
+                            "sleeve": "Short Sleeve"
+                          },
+                          {
+                            "specificationtype": "Sizing",
+                            "sizes": "S, M, L, XL, XXL",
+                            "chest": "34-46 inches",
+                            "length": "26-30 inches"
+                          },
+                          {
+                            "specificationtype": "Care Instructions",
+                            "wash": "Machine wash cold, do not bleach, tumble dry low",
+                            "iron": "Warm iron if needed",
+                            "dryclean": "Do not dry clean"
+                          },
+                          {
+                            "specificationtype": "Warranty",
+                            "warrantysummary": "No warranty, returns accepted within 30 days of purchase",
+                            "warrantyduration": "No warranty"
+                          }
+                        ]
+                      },
+
+
+                          {
+                            "id": 501,
+                            "category": "Fashion",
+                            "subcategory": "Shoes",
+                            "categoryid": "Shoes",
+                            "colors": ["Black", "White", "Blue", "Grey", "Red"],
+                            "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+                            "brand": "Adidas",
+                            "materials": ["Synthetic", "Rubber", "Mesh"],
+                            "images": ["image1link", "image2link", "image3link"],
+                            "title": "Adidas Men's Running Shoes (Black)",
+                            "rating": 4.7,
+                            "reviews": [
+                              {
+                                "rating": 5,
+                                "title": "Comfortable and Stylish!",
+                                "description": "These shoes are not only stylish but also provide excellent comfort for running and casual wear.",
+                                "date": "2025-03-02"
+                              },
+                              {
+                                "rating": 4,
+                                "title": "Good shoes, but a bit stiff initially",
+                                "description": "The shoes were a bit stiff when I first wore them, but after a few uses, they became very comfortable.",
+                                "date": "2025-02-25"
+                              }
+                            ],
+                            "price": 4999,
+                            "discountedprice": 3999,
+                            "discount": 20,
+                            "isavailableoffers": true,
+                            "availableoffers": [
+                              {
+                                "name": "Bank Offer",
+                                "description": "5% Instant Discount on SBI Debit and Credit Cards"
+                              },
+                              {
+                                "name": "Combo Offer",
+                                "description": "Buy 1 Get 1 20% Off on Adidas Shoes"
+                              }
+                            ],
+                            "iswarranty": true,
+                            "delivery": 110004,
+                            "deliverydate": "Delivery in 3-5 Days, Saturday",
+                            "highlights": [
+                              "Breathable mesh upper for comfort",
+                              "Responsive cushioning for running",
+                              "Durable rubber sole for traction",
+                              "Lightweight and flexible design"
+                            ],
+                            "seller": "SportsZone",
+                            "shortdescription": "The Adidas Men's Running Shoes are designed for both style and performance. Featuring a breathable mesh upper, responsive cushioning, and a durable rubber sole, these shoes provide ultimate comfort and support for running, workouts, and everyday wear.",
+                            "fulldescription": [
+                              {
+                                "title": "Breathable Mesh Upper",
+                                "description": "The mesh upper allows for superior airflow, keeping your feet cool and comfortable during even the most intense activities.",
+                                "image": "imagelink"
+                              },
+                              {
+                                "title": "Responsive Cushioning",
+                                "description": "The responsive cushioning absorbs shock with every step, providing exceptional comfort during runs or walks.",
+                                "image": "imagelink"
+                              }
+                            ],
+                            "specification": [
+                              {
+                                "specificationtype": "General",
+                                "inthebox": "1 Pair of Adidas Running Shoes",
+                                "modelnumber": "AD-RUN001",
+                                "modelname": "Running Shoes",
+                                "color": "Black",
+                                "material": "Synthetic, Rubber, Mesh",
+                                "sole": "Rubber",
+                                "fit": "Regular Fit",
+                                "closure": "Lace-Up"
+                              },
+                              {
+                                "specificationtype": "Sizing",
+                                "sizes": "6, 7, 8, 9, 10, 11, 12",
+                                "length": "Varies based on size",
+                                "width": "Standard"
+                              },
+                              {
+                                "specificationtype": "Care Instructions",
+                                "wash": "Wipe with a damp cloth, do not machine wash",
+                                "dry": "Air dry, avoid direct sunlight",
+                                "cleaning": "Use shoe cleaner for tough stains"
+                              },
+                              {
+                                "specificationtype": "Warranty",
+                                "warrantysummary": "6 Months Manufacturer Warranty for Manufacturing Defects",
+                                "warrantyduration": "6 Months"
+                              }
+                            ]
+                          },
+
+                              {
+                                "id": 601,
+                                "category": "Fashion",
+                                "subcategory": "Sarees",
+                                "categoryid": "Sarees",
+                                "colors": ["Red", "Green", "Blue", "Pink", "Yellow"],
+                                "materials": ["Silk", "Cotton", "Georgette", "Chiffon"],
+                                "images": ["image1link", "image2link", "image3link"],
+                                "title": "Saree Craft Women's Silk Saree (Red)",
+                                "rating": 4.9,
+                                "reviews": [
+                                  {
+                                    "rating": 5,
+                                    "title": "Elegant and Beautiful!",
+                                    "description": "The saree looks absolutely gorgeous and the fabric feels luxurious. Perfect for weddings and festivals.",
+                                    "date": "2025-03-05"
+                                  },
+                                  {
+                                    "rating": 4,
+                                    "title": "Great quality, but a bit heavy",
+                                    "description": "The saree is of great quality, but it is a bit heavy to wear for long periods. Still, the design and fabric are amazing.",
+                                    "date": "2025-02-28"
+                                  }
+                                ],
+                                "price": 4999,
+                                "discountedprice": 3499,
+                                "discount": 30,
+                                "isavailableoffers": true,
+                                "availableoffers": [
+                                  {
+                                    "name": "Bank Offer",
+                                    "description": "10% Instant Discount on ICICI Bank Credit and Debit Cards"
+                                  },
+                                  {
+                                    "name": "Combo Offer",
+                                    "description": "Buy 1 Saree Get 1 Dupatta Free"
+                                  }
+                                ],
+                                "iswarranty": false,
+                                "delivery": 110005,
+                                "deliverydate": "Delivery in 4-7 Days, Friday",
+                                "highlights": [
+                                  "Rich silk fabric with intricate embroidery",
+                                  "Perfect for weddings, festivals, and special occasions",
+                                  "Comes with matching blouse piece",
+                                  "Elegant drape and fit"
+                                ],
+                                "seller": "EthnicElegance",
+                                "shortdescription": "This Saree Craft Women's Silk Saree in Red is designed to impress with its luxurious fabric and detailed embroidery. Ideal for weddings and festive occasions, it offers both elegance and comfort. The saree comes with a matching blouse piece for a complete look.",
+                                "fulldescription": [
+                                  {
+                                    "title": "Luxurious Silk Fabric",
+                                    "description": "Crafted from premium silk, this saree offers a rich and luxurious feel, making it perfect for high-profile events and celebrations.",
+                                    "image": "imagelink"
+                                  },
+                                  {
+                                    "title": "Intricate Embroidery Work",
+                                    "description": "The saree is adorned with delicate embroidery and fine detailing that adds an elegant touch to its overall look.",
+                                    "image": "imagelink"
+                                  }
+                                ],
+                                "specification": [
+                                  {
+                                    "specificationtype": "General",
+                                    "inthebox": "1 Saree, 1 Blouse Piece",
+                                    "modelnumber": "SC-SILK001",
+                                    "modelname": "Women's Silk Saree",
+                                    "color": "Red",
+                                    "material": "Silk",
+                                    "design": "Embroidery",
+                                    "length": "6.5 meters",
+                                    "width": "45 inches"
+                                  },
+                                  {
+                                    "specificationtype": "Occasion",
+                                    "occasion": "Weddings, Festivals, Parties",
+                                    "fit": "Regular Fit",
+                                    "style": "Traditional, Ethnic"
+                                  },
+                                  {
+                                    "specificationtype": "Care Instructions",
+                                    "wash": "Dry clean only",
+                                    "iron": "Iron with low heat, avoid direct contact with embroidery",
+                                    "storage": "Store in a cool, dry place, preferably in a saree pouch"
+                                  },
+                                  {
+                                    "specificationtype": "Warranty",
+                                    "warrantysummary": "No warranty, returns accepted within 7 days of purchase",
+                                    "warrantyduration": "No warranty"
+                                  }
+                                ]
+                              },
+
+                                  {
+                                    "id": 701,
+                                    "category": "Home Appliances",
+                                    "subcategory": "Refrigerators",
+                                    "categoryid": "Fridges",
+                                    "colors": ["Silver", "Black", "White"],
+                                    "brands": ["Samsung", "LG", "Whirlpool"],
+                                    "images": ["image1link", "image2link", "image3link"],
+                                    "title": "Samsung 253 L 3 Star Frost Free Refrigerator (Silver)",
+                                    "rating": 4.5,
+                                    "reviews": [
+                                      {
+                                        "rating": 5,
+                                        "title": "Great value for money!",
+                                        "description": "This fridge is spacious, energy-efficient, and has all the features I needed. Perfect for a family of 3-4.",
+                                        "date": "2025-03-04"
+                                      },
+                                      {
+                                        "rating": 4,
+                                        "title": "Good fridge, but noisy sometimes",
+                                        "description": "It’s a good fridge overall, but occasionally there’s a bit of noise from the cooling system.",
+                                        "date": "2025-02-28"
+                                      }
+                                    ],
+                                    "price": 24999,
+                                    "discountedprice": 21999,
+                                    "discount": 12,
+                                    "isavailableoffers": true,
+                                    "availableoffers": [
+                                      {
+                                        "name": "Bank Offer",
+                                        "description": "10% Instant Discount on HDFC Bank Credit and Debit Cards"
+                                      },
+                                      {
+                                        "name": "Exchange Offer",
+                                        "description": "Get up to ₹4000 off on Exchange of your old fridge"
+                                      }
+                                    ],
+                                    "iswarranty": true,
+                                    "delivery": 110006,
+                                    "deliverydate": "Delivery in 5-7 Days, Tuesday",
+                                    "highlights": [
+                                      "253 L Capacity – Suitable for 3-4 members",
+                                      "Frost-Free Cooling System",
+                                      "3 Star Energy Rating – Energy efficient",
+                                      "Deodorizing Filter to keep food fresh",
+                                      "Reversible Door – Flexible installation options"
+                                    ],
+                                    "seller": "HomeAppliancesHub",
+                                    "shortdescription": "The Samsung 253 L 3 Star Frost Free Refrigerator is perfect for small families. With its energy-efficient design, spacious interior, and advanced cooling system, it ensures your food stays fresh and organized. The fridge also comes with a reversible door for flexible placement.",
+                                    "fulldescription": [
+                                      {
+                                        "title": "Frost Free Technology",
+                                        "description": "This fridge features frost-free technology, ensuring no ice buildup and better cooling efficiency.",
+                                        "image": "imagelink"
+                                      },
+                                      {
+                                        "title": "Deodorizing Filter",
+                                        "description": "The built-in deodorizing filter helps to maintain a fresh environment inside the fridge, keeping food odors at bay.",
+                                        "image": "imagelink"
+                                      }
+                                    ],
+                                    "specification": [
+                                      {
+                                        "specificationtype": "General",
+                                        "inthebox": "1 Refrigerator, User Manual, Warranty Card",
+                                        "modelnumber": "RT28A3023S8",
+                                        "modelname": "253 L Frost Free Refrigerator",
+                                        "color": "Silver",
+                                        "capacity": "253 L",
+                                        "doortype": "Reversible Door",
+                                        "star_rating": "3 Star",
+                                        "coolingtype": "Frost Free",
+                                        "material": "Metal",
+                                        "compressor": "Dynamic Cooling"
+                                      },
+                                      {
+                                        "specificationtype": "Performance",
+                                        "powerconsumption": "175 KWh/year",
+                                        "voltage": "220-240 V",
+                                        "frequency": "50 Hz"
+                                      },
+                                      {
+                                        "specificationtype": "Dimensions",
+                                        "height": "1620 mm",
+                                        "width": "550 mm",
+                                        "depth": "660 mm",
+                                        "weight": "45 kg"
+                                      },
+                                      {
+                                        "specificationtype": "Warranty",
+                                        "warrantysummary": "1 Year on Product, 10 Years on Compressor",
+                                        "warrantyduration": "1 Year (Product), 10 Years (Compressor)"
+                                      }
+                                    ]
+                                  },
+              
+                                      {
+                                        "id": 801,
+                                        "category": "Electronics",
+                                        "subcategory": "Televisions",
+                                        "categoryid": "TVs",
+                                        "brands": ["Samsung", "LG", "Sony"],
+                                        "colors": ["Black", "Silver", "White"],
+                                        "screen_sizes": ["32 inch", "43 inch", "55 inch", "65 inch"],
+                                        "images": ["image1link", "image2link", "image3link"],
+                                        "title": "Samsung 43 Inch 4K UHD Smart LED TV (Black)",
+                                        "rating": 4.7,
+                                        "reviews": [
+                                          {
+                                            "rating": 5,
+                                            "title": "Fantastic Picture Quality",
+                                            "description": "The 4K resolution is amazing. The colors are vibrant and the TV delivers excellent sound quality.",
+                                            "date": "2025-03-03"
+                                          },
+                                          {
+                                            "rating": 4,
+                                            "title": "Great value, but remote could be better",
+                                            "description": "Overall, the TV is great for the price. However, the remote control feels a little basic.",
+                                            "date": "2025-02-28"
+                                          }
+                                        ],
+                                        "price": 29999,
+                                        "discountedprice": 25999,
+                                        "discount": 13,
+                                        "isavailableoffers": true,
+                                        "availableoffers": [
+                                          {
+                                            "name": "Bank Offer",
+                                            "description": "5% Instant Discount on HDFC Bank Credit and Debit Cards"
+                                          },
+                                          {
+                                            "name": "Exchange Offer",
+                                            "description": "Get up to ₹5000 off on Exchange of your old TV"
+                                          }
+                                        ],
+                                        "iswarranty": true,
+                                        "delivery": 110007,
+                                        "deliverydate": "Delivery in 3-5 Days, Thursday",
+                                        "highlights": [
+                                          "4K UHD Resolution for sharp and clear images",
+                                          "Smart TV with Wi-Fi connectivity",
+                                          "Multiple HDMI and USB ports",
+                                          "HDR (High Dynamic Range) for better contrast",
+                                          "Slim design with narrow bezels"
+                                        ],
+                                        "seller": "TechGiant",
+                                        "shortdescription": "The Samsung 43 Inch 4K UHD Smart LED TV delivers exceptional picture quality with a 4K resolution, HDR support, and smart features. Perfect for streaming and entertainment, this TV is a great choice for your living room or bedroom.",
+                                        "fulldescription": [
+                                          {
+                                            "title": "4K UHD Resolution",
+                                            "description": "With 4K UHD resolution, this TV delivers a sharper, clearer, and more vibrant viewing experience. Every scene comes to life with incredible detail.",
+                                            "image": "imagelink"
+                                          },
+                                          {
+                                            "title": "Smart TV Features",
+                                            "description": "This smart TV allows you to stream your favorite shows and movies directly from platforms like Netflix, Amazon Prime, and YouTube. Easily connect to the internet via Wi-Fi.",
+                                            "image": "imagelink"
+                                          }
+                                        ],
+                                        "specification": [
+                                          {
+                                            "specificationtype": "General",
+                                            "inthebox": "1 TV, Remote Control, User Manual, Warranty Card",
+                                            "modelnumber": "UA43TU8000KXXL",
+                                            "modelname": "43 Inch 4K UHD Smart LED TV",
+                                            "color": "Black",
+                                            "screen_size": "43 Inch",
+                                            "screen_type": "LED",
+                                            "resolution": "3840 x 2160 (4K UHD)",
+                                            "refresh_rate": "60 Hz",
+                                            "smart_tv": "Yes",
+                                            "operating_system": "Tizen OS"
+                                          },
+                                          {
+                                            "specificationtype": "Connectivity",
+                                            "hdmi_ports": "3",
+                                            "usb_ports": "2",
+                                            "wifi": "Yes",
+                                            "ethernet_port": "Yes",
+                                            "bluetooth": "Yes"
+                                          },
+                                          {
+                                            "specificationtype": "Audio",
+                                            "audio_output": "20W",
+                                            "sound_technology": "DTS Virtual:X",
+                                            "speaker_type": "Down Firing"
+                                          },
+                                          {
+                                            "specificationtype": "Dimensions",
+                                            "height": "569.8 mm",
+                                            "width": "974.7 mm",
+                                            "depth": "59.6 mm",
+                                            "weight": "8.4 kg"
+                                          },
+                                          {
+                                            "specificationtype": "Warranty",
+                                            "warrantysummary": "1 Year Manufacturer Warranty for TV and 6 Months Warranty for Remote and Accessories",
+                                            "warrantyduration": "1 Year"
+                                          }
+                                        ]
+                                      },
+           
+                                          {
+                                            "id": 901,
+                                            "category": "Fashion",
+                                            "subcategory": "Footwear",
+                                            "categoryid": "Sandals",
+                                            "colors": ["Black", "Brown", "Beige", "Blue"],
+                                            "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+                                            "brands": ["Nike", "Adidas", "Puma"],
+                                            "materials": ["Synthetic", "Leather", "Rubber"],
+                                            "images": ["image1link", "image2link", "image3link"],
+                                            "title": "Nike Men's Comfort Sandals (Black)",
+                                            "rating": 4.6,
+                                            "reviews": [
+                                              {
+                                                "rating": 5,
+                                                "title": "Extremely Comfortable!",
+                                                "description": "These sandals are incredibly comfortable for daily wear. The footbed offers great support, and the straps are adjustable.",
+                                                "date": "2025-03-02"
+                                              },
+                                              {
+                                                "rating": 4,
+                                                "title": "Good Sandals, but a bit tight at first",
+                                                "description": "The sandals are great for comfort and style, but the straps felt a little tight initially. After a few wears, they loosened up.",
+                                                "date": "2025-02-28"
+                                              }
+                                            ],
+                                            "price": 1499,
+                                            "discountedprice": 1299,
+                                            "discount": 13,
+                                            "isavailableoffers": true,
+                                            "availableoffers": [
+                                              {
+                                                "name": "Bank Offer",
+                                                "description": "5% Instant Discount on ICICI Bank Credit and Debit Cards"
+                                              },
+                                              {
+                                                "name": "Combo Offer",
+                                                "description": "Buy 1 Get 1 10% Off on Select Footwear"
+                                              }
+                                            ],
+                                            "iswarranty": true,
+                                            "delivery": 110008,
+                                            "deliverydate": "Delivery in 4-6 Days, Friday",
+                                            "highlights": [
+                                              "Soft cushioned footbed for all-day comfort",
+                                              "Durable rubber sole for better traction",
+                                              "Adjustable straps for a secure fit",
+                                              "Perfect for casual wear and outdoor activities"
+                                            ],
+                                            "seller": "ShoeWorld",
+                                            "shortdescription": "The Nike Men's Comfort Sandals are designed for comfort and durability. With adjustable straps and a cushioned footbed, these sandals are perfect for daily wear and outdoor activities, offering both style and function.",
+                                            "fulldescription": [
+                                              {
+                                                "title": "Cushioned Footbed",
+                                                "description": "The soft cushioned footbed provides excellent comfort, making these sandals ideal for long hours of wear, whether you're walking around the city or relaxing at the beach.",
+                                                "image": "imagelink"
+                                              },
+                                              {
+                                                "title": "Adjustable Straps",
+                                                "description": "The adjustable straps allow for a custom fit, ensuring that these sandals stay securely in place throughout the day.",
+                                                "image": "imagelink"
+                                              }
+                                            ],
+                                            "specification": [
+                                              {
+                                                "specificationtype": "General",
+                                                "inthebox": "1 Pair of Sandals",
+                                                "modelnumber": "NIKE-SC01",
+                                                "modelname": "Comfort Sandals",
+                                                "color": "Black",
+                                                "material": "Synthetic, Rubber",
+                                                "sole": "Rubber",
+                                                "closure": "Adjustable Straps"
+                                              },
+                                              {
+                                                "specificationtype": "Sizing",
+                                                "sizes": "6, 7, 8, 9, 10, 11, 12",
+                                                "fit": "Regular Fit",
+                                                "width": "Standard"
+                                              },
+                                              {
+                                                "specificationtype": "Care Instructions",
+                                                "wash": "Wipe with a damp cloth",
+                                                "dry": "Air dry in a cool place",
+                                                "storage": "Store in a dry place, away from direct sunlight"
+                                              },
+                                              {
+                                                "specificationtype": "Warranty",
+                                                "warrantysummary": "6 Months Manufacturer Warranty for Manufacturing Defects",
+                                                "warrantyduration": "6 Months"
+                                              }
+                                            ]
+                                          },
+
+                                              {
+                                                "id": 1001,
+                                                "category": "Fashion",
+                                                "subcategory": "Shirts",
+                                                "categoryid": "Formal Shirts",
+                                                "colors": ["White", "Blue", "Black", "Gray"],
+                                                "sizes": ["S", "M", "L", "XL", "XXL"],
+                                                "brands": ["Van Heusen", "Arrow", "Peter England"],
+                                                "materials": ["Cotton", "Polyester", "Linen"],
+                                                "images": ["image1link", "image2link", "image3link"],
+                                                "title": "Van Heusen Men's Slim Fit Formal Shirt (White)",
+                                                "rating": 4.8,
+                                                "reviews": [
+                                                  {
+                                                    "rating": 5,
+                                                    "title": "Perfect Fit and Comfortable",
+                                                    "description": "The shirt fits perfectly, and the fabric feels very comfortable for long hours at work. Highly recommend!",
+                                                    "date": "2025-03-01"
+                                                  },
+                                                  {
+                                                    "rating": 4,
+                                                    "title": "Good Quality but Pricy",
+                                                    "description": "Good quality shirt, the fabric is breathable and smooth. However, it’s a little on the expensive side.",
+                                                    "date": "2025-02-25"
+                                                  }
+                                                ],
+                                                "price": 1999,
+                                                "discountedprice": 1499,
+                                                "discount": 25,
+                                                "isavailableoffers": true,
+                                                "availableoffers": [
+                                                  {
+                                                    "name": "Bank Offer",
+                                                    "description": "10% Instant Discount on Axis Bank Credit and Debit Cards"
+                                                  },
+                                                  {
+                                                    "name": "Combo Offer",
+                                                    "description": "Buy 2 Formal Shirts and Get 10% Off on Your Purchase"
+                                                  }
+                                                ],
+                                                "iswarranty": false,
+                                                "delivery": 110009,
+                                                "deliverydate": "Delivery in 4-6 Days, Saturday",
+                                                "highlights": [
+                                                  "Slim Fit Design for a sharp, modern look",
+                                                  "100% Cotton fabric for comfort and breathability",
+                                                  "Button-down collar for a formal appearance",
+                                                  "Perfect for office wear, meetings, and events"
+                                                ],
+                                                "seller": "ApparelHub",
+                                                "shortdescription": "Van Heusen Men's Slim Fit Formal Shirt in white is perfect for professional and formal settings. Made from 100% cotton, it ensures comfort and style throughout the day with a modern slim fit design.",
+                                                "fulldescription": [
+                                                  {
+                                                    "title": "Slim Fit Design",
+                                                    "description": "Designed to provide a sharp and modern look, this slim fit shirt accentuates your figure while maintaining comfort throughout the day.",
+                                                    "image": "imagelink"
+                                                  },
+                                                  {
+                                                    "title": "100% Cotton Fabric",
+                                                    "description": "Crafted from soft and breathable cotton, this shirt offers maximum comfort and keeps you cool even during long hours.",
+                                                    "image": "imagelink"
+                                                  }
+                                                ],
+                                                "specification": [
+                                                  {
+                                                    "specificationtype": "General",
+                                                    "inthebox": "1 Formal Shirt",
+                                                    "modelnumber": "VH-FS-001",
+                                                    "modelname": "Slim Fit Formal Shirt",
+                                                    "color": "White",
+                                                    "material": "100% Cotton",
+                                                    "collar": "Button-Down Collar",
+                                                    "sleeve": "Full Sleeves",
+                                                    "fit": "Slim Fit"
+                                                  },
+                                                  {
+                                                    "specificationtype": "Sizing",
+                                                    "sizes": "S, M, L, XL, XXL",
+                                                    "chest": "38-44 inches",
+                                                    "waist": "30-38 inches"
+                                                  },
+                                                  {
+                                                    "specificationtype": "Care Instructions",
+                                                    "wash": "Machine wash cold, tumble dry low",
+                                                    "iron": "Iron on medium heat",
+                                                    "storage": "Store in a cool, dry place"
+                                                  },
+                                                  {
+                                                    "specificationtype": "Warranty",
+                                                    "warrantysummary": "No Warranty",
+                                                    "warrantyduration": "No Warranty"
+                                                  }
+                                                ]
+                                              },
+
+                                                  {
+                                                    "id": 1101,
+                                                    "category": "Home Appliances",
+                                                    "subcategory": "Air Conditioners",
+                                                    "categoryid": "ACs",
+                                                    "brands": ["LG", "Samsung", "Daikin", "Voltas"],
+                                                    "colors": ["White", "Silver"],
+                                                    "capacities": ["1 Ton", "1.5 Ton", "2 Ton"],
+                                                    "images": ["image1link", "image2link", "image3link"],
+                                                    "title": "LG 1.5 Ton 5 Star Inverter Split AC (White)",
+                                                    "rating": 4.7,
+                                                    "reviews": [
+                                                      {
+                                                        "rating": 5,
+                                                        "title": "Excellent Cooling Performance",
+                                                        "description": "This AC cools my room quickly and efficiently. The inverter technology helps save on electricity bills. Great buy!",
+                                                        "date": "2025-03-02"
+                                                      },
+                                                      {
+                                                        "rating": 4,
+                                                        "title": "Good Performance but Noisy at Times",
+                                                        "description": "The AC works really well, but sometimes it makes a bit of noise when cooling at full speed.",
+                                                        "date": "2025-02-28"
+                                                      }
+                                                    ],
+                                                    "price": 37999,
+                                                    "discountedprice": 31999,
+                                                    "discount": 16,
+                                                    "isavailableoffers": true,
+                                                    "availableoffers": [
+                                                      {
+                                                        "name": "Bank Offer",
+                                                        "description": "10% Instant Discount on HDFC Bank Credit and Debit Cards"
+                                                      },
+                                                      {
+                                                        "name": "Exchange Offer",
+                                                        "description": "Get up to ₹5000 off on Exchange of your old AC"
+                                                      }
+                                                    ],
+                                                    "iswarranty": true,
+                                                    "delivery": 110010,
+                                                    "deliverydate": "Delivery in 5-7 Days, Monday",
+                                                    "highlights": [
+                                                      "1.5 Ton Capacity – Ideal for medium-sized rooms",
+                                                      "5 Star Energy Rating – Energy-efficient and cost-saving",
+                                                      "Inverter Technology – Stable temperature control and reduced electricity consumption",
+                                                      "Anti-Bacteria Filter – Provides clean and fresh air",
+                                                      "Silent Operation – Low noise for undisturbed sleep"
+                                                    ],
+                                                    "seller": "ApplianceMart",
+                                                    "shortdescription": "The LG 1.5 Ton 5 Star Inverter Split AC is designed for energy-efficient cooling with advanced inverter technology. It ensures fast and quiet cooling, while the anti-bacterial filter provides fresh and clean air.",
+                                                    "fulldescription": [
+                                                      {
+                                                        "title": "Inverter Technology",
+                                                        "description": "The LG Inverter technology adjusts the compressor speed to maintain a consistent temperature. It ensures efficient cooling and saves energy by avoiding frequent on/off cycles.",
+                                                        "image": "imagelink"
+                                                      },
+                                                      {
+                                                        "title": "Anti-Bacterial Filter",
+                                                        "description": "This AC comes with an anti-bacterial filter to help keep the air clean by removing bacteria and dust particles, ensuring that you breathe fresh and healthy air.",
+                                                        "image": "imagelink"
+                                                      }
+                                                    ],
+                                                    "specification": [
+                                                      {
+                                                        "specificationtype": "General",
+                                                        "inthebox": "1 AC Unit, Remote Control, User Manual, Warranty Card",
+                                                        "modelnumber": "LSC09SWC",
+                                                        "modelname": "1.5 Ton 5 Star Inverter Split AC",
+                                                        "color": "White",
+                                                        "type": "Split AC",
+                                                        "capacity": "1.5 Ton",
+                                                        "star_rating": "5 Star",
+                                                        "compressor": "Dual Rotary",
+                                                        "cooling_type": "Fast Cooling"
+                                                      },
+                                                      {
+                                                        "specificationtype": "Performance",
+                                                        "power_consumption": "1430 W",
+                                                        "voltage": "230 V",
+                                                        "frequency": "50 Hz",
+                                                        "noise_level": "40 dB"
+                                                      },
+                                                      {
+                                                        "specificationtype": "Features",
+                                                        "air_direction": "4-Way Air Swing",
+                                                        "remote_control": "Yes",
+                                                        "auto_restart": "Yes",
+                                                        "sleep_mode": "Yes",
+                                                        "eco_mode": "Yes"
+                                                      },
+                                                      {
+                                                        "specificationtype": "Dimensions",
+                                                        "height": "28.5 cm",
+                                                        "width": "90 cm",
+                                                        "depth": "22 cm",
+                                                        "weight": "8.5 kg"
+                                                      },
+                                                      {
+                                                        "specificationtype": "Warranty",
+                                                        "warrantysummary": "1 Year on Product, 10 Years on Compressor",
+                                                        "warrantyduration": "1 Year (Product), 10 Years (Compressor)"
+                                                      }
+                                                    ]
+                                                  },
+                                              
+                   
+                                                      {
+                                                        "id": 1201,
+                                                        "category": "Accessories",
+                                                        "subcategory": "Bags",
+                                                        "categoryid": "Laptop Bags",
+                                                        "colors": ["Black", "Gray", "Blue", "Brown"],
+                                                        "sizes": ["15.6 inches", "17 inches", "13 inches"],
+                                                        "brands": ["Targus", "HP", "Lenovo", "Samsonite"],
+                                                        "materials": ["Polyester", "Nylon", "Leather"],
+                                                        "images": ["image1link", "image2link", "image3link"],
+                                                        "title": "Targus 15.6 Inch Laptop Backpack (Black)",
+                                                        "rating": 4.5,
+                                                        "reviews": [
+                                                          {
+                                                            "rating": 5,
+                                                            "title": "Perfect for Work & Travel",
+                                                            "description": "This laptop backpack is perfect for my daily commute. It fits my 15.6-inch laptop, has ample space for my accessories, and feels comfortable to carry around.",
+                                                            "date": "2025-03-03"
+                                                          },
+                                                          {
+                                                            "rating": 4,
+                                                            "title": "Good Quality, But a Little Bulky",
+                                                            "description": "The bag is well-made and durable. However, it feels a bit bulky when fully packed. But overall, it's a great product.",
+                                                            "date": "2025-02-25"
+                                                          }
+                                                        ],
+                                                        "price": 2999,
+                                                        "discountedprice": 2499,
+                                                        "discount": 17,
+                                                        "isavailableoffers": true,
+                                                        "availableoffers": [
+                                                          {
+                                                            "name": "Bank Offer",
+                                                            "description": "5% Instant Discount on SBI Credit and Debit Cards"
+                                                          },
+                                                          {
+                                                            "name": "Combo Offer",
+                                                            "description": "Buy 1 Get 10% Off on Laptop Accessories"
+                                                          }
+                                                        ],
+                                                        "iswarranty": true,
+                                                        "delivery": 110011,
+                                                        "deliverydate": "Delivery in 3-5 Days, Thursday",
+                                                        "highlights": [
+                                                          "Fits most 15.6-inch laptops",
+                                                          "Multiple compartments for laptop, charger, and accessories",
+                                                          "Padded shoulder straps for added comfort",
+                                                          "Durable and water-resistant polyester material",
+                                                          "Stylish and modern design for work or travel"
+                                                        ],
+                                                        "seller": "BagWorld",
+                                                        "shortdescription": "The Targus 15.6-inch laptop backpack is designed for professionals and students on the go. It provides ample space for laptops, accessories, and personal items while ensuring comfort with padded straps and durable materials.",
+                                                        "fulldescription": [
+                                                          {
+                                                            "title": "Ample Storage Space",
+                                                            "description": "The backpack features multiple compartments, including a dedicated sleeve for a 15.6-inch laptop and extra pockets for your charger, mouse, and other accessories.",
+                                                            "image": "imagelink"
+                                                          },
+                                                          {
+                                                            "title": "Comfortable & Ergonomic",
+                                                            "description": "The padded shoulder straps and back panel are designed to offer comfort, even during long commutes, making it ideal for daily use or travel.",
+                                                            "image": "imagelink"
+                                                          }
+                                                        ],
+                                                        "specification": [
+                                                          {
+                                                            "specificationtype": "General",
+                                                            "inthebox": "1 Laptop Backpack",
+                                                            "modelnumber": "TBG-002",
+                                                            "modelname": "15.6 Inch Laptop Backpack",
+                                                            "color": "Black",
+                                                            "material": "Polyester, Nylon",
+                                                            "capacity": "22 Liters",
+                                                            "dimensions": "45 x 32 x 15 cm",
+                                                            "weight": "0.75 kg"
+                                                          },
+                                                          {
+                                                            "specificationtype": "Features",
+                                                            "laptopcompartment": "Yes, fits up to 15.6-inch laptops",
+                                                            "waterresistant": "Yes",
+                                                            "ergonomic": "Yes",
+                                                            "adjustablestraps": "Yes",
+                                                            "multiplecompartments": "Yes"
+                                                          },
+                                                          {
+                                                            "specificationtype": "Warranty",
+                                                            "warrantysummary": "1 Year Manufacturer Warranty",
+                                                            "warrantyduration": "1 Year"
+                                                          }
+                                                        ]
+                                                      }
+
+
+
+    ]
+  }
