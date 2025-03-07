@@ -1,9 +1,12 @@
 import React from 'react'
+import ProfileSidebar from './ProfileSidebar'
+import PersonalInformation from './PersonalInformation'
 
 function Profile() {
   return (
-    <div>
-      
+    <div className='flex justify-center gap-5'>
+      <ProfileSidebar/>
+      <PersonalInformation/>
     </div>
   )
 }

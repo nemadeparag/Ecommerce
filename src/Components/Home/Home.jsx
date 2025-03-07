@@ -18,7 +18,7 @@ function Home() {
         <SpecialDis3Banner/>
         <MultiProduct3Card/>
 
-      
+
     </div>
   )
 }

@@ -1,8 +1,9 @@
 import "./App.css";
 import Header from "./Components/Header/header.jsx";
-
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from "./Components/Home/Home.jsx";
+import Profile from "./Components/Profile/Profile.jsx";
+import PersonalInformation from "./Components/Profile/PersonalInformation.jsx";
 
 
 function App() {
@@ -14,10 +15,10 @@ function App() {
         <Header />
         <Routes>
 
-        <Route path="/" element={<Home/>}/>
-
+          <Route path="/" element={<Home/>}/>
 
         </Routes>
+        <Profile/>
         </BrowserRouter>
       </div>
     </>
