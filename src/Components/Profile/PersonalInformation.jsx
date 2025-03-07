@@ -91,7 +91,7 @@ const PersonalInformation = () => {
             checked={formData.gender === "male"}
             disabled={editSection !== "personal"}
             onChange={handleChange}
-            className="mr-2"
+            className="mr-2" 
           />
           Male
         </label>

@@ -50,7 +50,7 @@ function ProfileSidebar() {
         <h2 className="mt-4  text-gray-500  font-bold pl-3">PAYMENTS</h2>
         <div className="mt-2">
           <div className="p-3 pl-10 flex justify-between items-center text-sm cursor-pointer hover:bg-gray-200 rounded-md">
-            Gift Cards
+            Gift Cards 
           </div>
           <div className="p-3 pl-10 text-sm cursor-pointer hover:bg-gray-200 rounded-md">
             Saved UPI

@@ -3,8 +3,8 @@ import Header from "./Components/Header/header.jsx";
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from "./Components/Home/Home.jsx";
 import Profile from "./Components/Profile/Profile.jsx";
-import PersonalInformation from "./Components/Profile/PersonalInformation.jsx";
-
+import ProductDisplay from "./Components/ProductDisplay/ProductDisplay.jsx";
+import ProductDescription from "./Components/ProductDescription/ProductDescription.jsx";
 
 function App() {
   return (
@@ -16,7 +16,8 @@ function App() {
         <Routes>
 
           <Route path="/" element={<Home/>}/>
-
+          <Route path="/products" element={<ProductDisplay />} />
+          <Route path="/products/:id" element={<ProductDescription />} />
         </Routes>
         <Profile/>
         </BrowserRouter>
