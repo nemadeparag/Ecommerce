@@ -9,7 +9,7 @@
         "rams": [4, 6, 8],
         "brand": "Poco",
         "storages":[32,64,128],
-        "images":["https://m.media-amazon.com/images/I/71kOe866xHL._SY606_.jpg","https://m.media-amazon.com/images/I/71LaBiZR5mL._SY606_.jpg","https://m.media-amazon.com/images/I/71Tbdqi8rJL._SX569_.jpg","https://m.media-amazon.com/images/I/71INPXiXgxL._SL1500_.jpg"],
+        "images":["https://m.media-amazon.com/images/I/71kOe866xHL._SY606_.jpg","https://m.media-amazon.com/images/I/71LaBiZR5mL._SY606_.jpg","https://m.media-amazon.com/images/I/71Tbdqi8rJL._SX569_.jpg","https://m.media-amazon.com/images/I/71INPXiXgxL._SL1500_.jpg","https://m.media-amazon.com/images/I/71INPXiXgxL._SL1500_.jpg"],
         "title": "POCO C61 (Ethereal Blue, 64 GB)  (4 GB RAM)",
         "rating":4.3,
         "reviews":[{
