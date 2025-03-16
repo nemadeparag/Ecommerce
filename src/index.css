@@ -1,6 +1,12 @@
-html, body {
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden; /* Prevent unwanted horizontal scrolling */
+@import "tailwindcss";
+
+@layer components {
+  .scrollbar-none {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+  }
 }

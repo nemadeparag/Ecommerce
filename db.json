@@ -27,14 +27,14 @@
             "description":"5% Unlimited Cashback on Flipkart Axis Bank Credit Card"
         },{
             "name":"Bank Offer",
-            "description":"5% off up to ₹750 on IDFC FIRST Power Women Platinum and Signature Debit Cards. Min Txn Value: ₹5000"
+            "description":"5% off up to ₹750 on IDFC FIRST Power Women Platinum and Signature Debit Cards. Min Txn Value ₹5000"
         },{
             "name":"Speecial Offer",
             "description":"Get extra ₹3100 off (price inclusive of cashback/coupon)"
         }],
         "iswarranty": true,
         "delivery": 421002,
-        "deliverydate": "Delivery in2 Days, Saturday",
+        "deliverydate": "Delivery in 2 Days, Saturday",
         "highlights":["32 MB RAM | 32 MB ROM | Expandable Upto 8 GB","6.1 cm (2.4 inch) Display","8MP Rear Camera","4500 mAh Battery"],
         "seller":"Flashtech Retail",
         "shortdescription": "POCO C61 is a smartphone that redefines perfection in terms of both performance and elegance. Everywhere you go, with its exquisite Radiant Ring design and high-quality glass back, it makes a statement. Whether you're gaming at maximum speed or surfing via social media, the 90 Hz display guarantees a smooth experience. Furthermore, with Corning Gorilla Glass 3 Protection installed, the POCO C61 provides unparalleled resistance to scuffs and falls. The fingerprint sensor that is integrated into your phone makes unlocking it fast and safe, and its robust RAM makes multitasking easy. Additionally, take stylish pictures of any moment with the 8 MP AI Dual Camera and the included vintage effects. Plus, make use of the enormous 5000 mAh Weekend battery and the quick 10 W Type-C charging for endless pleasure. By selecting the POCO C61, you can get unprecedented levels of mobile experience.",
@@ -1280,7 +1280,138 @@
                                                             "warrantyduration": "1 Year"
                                                           }
                                                         ]
-                                                      }
+                                                      },
+
+                                                      {
+                                                        "id": 1202,
+                                                        "category": "Electronics",
+                                                        "subcategory": "Smart Phones",
+                                                        "categoryid": "Smart Phones",
+                                                        "colors": ["Black", "White", "Gold"],
+                                                        "rams": [6, 8, 12],
+                                                        "brand": "Samsung",
+                                                        "storages": [128, 256, 512],
+                                                        "images": [
+                                                            "https://m.media-amazon.com/images/I/71goZuIha-L._SX679_.jpg",
+                                                            "https://m.media-amazon.com/images/I/81ZPsNFlRsL._SX679_.jpg",
+                                                            "https://m.media-amazon.com/images/I/71Mgmay88QL._SX679_.jpg",
+                                                            "https://m.media-amazon.com/images/I/71g0eynUajL._SX679_.jpg",
+                                                            "https://m.media-amazon.com/images/I/71hENOdXliL._SL1500_.jpg"
+                                                        ],
+                                                        "title": "Samsung Galaxy S23 Ultra (Phantom Black, 256 GB) ",
+                                                        "rating": 4.8,
+                                                        "reviews": [
+                                                            {
+                                                                "rating": 5,
+                                                                "title": "Premium Experience",
+                                                                "description": "The phone is a masterpiece—stunning display, amazing camera, and outstanding battery life.",
+                                                                "date": ""
+                                                            }
+                                                        ],
+                                                        "price": 119999,
+                                                        "discountedprice": 104999,
+                                                        "discount": 12,
+                                                        "isavailableoffers": true,
+                                                        "availableoffers": [
+                                                            {
+                                                                "name": "Bank Offer",
+                                                                "description": "10% off on HDFC Bank Credit Cards, up to ₹5000 on orders above ₹50,000"
+                                                            },
+                                                            {
+                                                                "name": "Exchange Offer",
+                                                                "description": "Exchange your old device and get up to ₹10,000 off"
+                                                            },
+                                                            {
+                                                                "name": "Special Offer",
+                                                                "description": "No Cost EMI available on major credit cards for 6 months"
+                                                            }
+                                                        ],
+                                                        "iswarranty": true,
+                                                        "delivery": 100001,
+                                                        "deliverydate": "Delivery in 1 Day, Friday",
+                                                        "highlights": [
+                                                            "12 GB RAM | 256 GB ROM | Expandable up to 1 TB",
+                                                            "6.8-inch QHD+ Dynamic AMOLED 2X Display",
+                                                            "200MP + 12MP + 10MP Rear Camera | 12MP Front Camera",
+                                                            "5000 mAh Battery with 45W Fast Charging"
+                                                        ],
+                                                        "seller": "TechWorld Online",
+                                                        "shortdescription": "The Samsung Galaxy S23 Ultra represents the pinnacle of smartphone technology with its sleek design, unmatched performance, and cutting-edge camera features. Capture every detail with its 200 MP ultra-high resolution camera, enjoy an immersive viewing experience on the QHD+ Dynamic AMOLED 2X display, and power through your day with the robust 5000 mAh battery.",
+                                                        "fulldescription": [
+                                                            {
+                                                                "title": "Stunning Design",
+                                                                "description": "The Galaxy S23 Ultra is crafted for perfection, featuring a refined design with ultra-durable Gorilla Glass Victus 2 and an aluminum frame for a premium look and feel.",
+                                                                "image": "https://me.pcmag.com/en/mobile-phones/14569/samsung-galaxy-s23-ultra"
+                                                            },
+                                                            {
+                                                                "title": "Dynamic Performance",
+                                                                "description": "Experience unparalleled speed and efficiency with the Snapdragon 8 Gen 2 processor, ensuring smooth multitasking, gaming, and everything in between.",
+                                                                "image": "https://wccftech.com/samsung-unleashes-the-galaxy-s23-ultra-with-200-megapixel-camera-snapdragon-8-gen-2-for-galaxy-and-more/"
+                                                            }
+                                                        ],
+                                                        "specification": [
+                                                            {
+                                                                "specificationtype": "General",
+                                                                "inthebox": "Handset, 45W Charger, USB-C Cable, SIM Eject Tool, Quick Start Guide",
+                                                                "modelnumber": "SM-S918BZKD",
+                                                                "modelname": "Galaxy S23 Ultra",
+                                                                "color": "Phantom Black",
+                                                                "phonetype": "Smartphones",
+                                                                "touchscreen": "Yes",
+                                                                "quickcharging": "Yes"
+                                                            },
+                                                            {
+                                                                "specificationtype": "Display Features",
+                                                                "displaysize": "17.3 cm (6.8 inch)",
+                                                                "displayresolution": "3088 x 1440 Pixels"
+                                                            },
+                                                            {
+                                                                "specificationtype": "Operating System",
+                                                                "os": "Android 14",
+                                                                "processorbrand": "Qualcomm",
+                                                                "processorname": "Snapdragon 8 Gen 2",
+                                                                "processorcore": "Octa Core",
+                                                                "clockspeed": "3.2 GHz"
+                                                            },
+                                                            {
+                                                                "specificationtype": "Storage",
+                                                                "internalstorage": "256 GB",
+                                                                "ram": "12 GB",
+                                                                "expandablestorage": "1 TB"
+                                                            },
+                                                            {
+                                                                "specificationtype": "Camera",
+                                                                "primarycamera": "200MP + 12MP + 10MP Rear Camera",
+                                                                "secondarycamera": "12MP Front Camera",
+                                                                "flash": "Yes"
+                                                            },
+                                                            {
+                                                                "specificationtype": "Connectivity Features",
+                                                                "networktype": "5G, 4G VOLTE, 4G, 3G, 2G",
+                                                                "bluetooth": "Yes",
+                                                                "wifi": "Yes",
+                                                                "usb": "Yes, Type-C",
+                                                                "gpssupport": "Yes"
+                                                            },
+                                                            {
+                                                                "specificationtype": "Battery",
+                                                                "batterycapacity": "5000 mAh",
+                                                                "batterytype": "Lithium-ion"
+                                                            },
+                                                            {
+                                                                "specificationtype": "Dimensions",
+                                                                "height": "163.4 mm",
+                                                                "width": "78.1 mm",
+                                                                "weight": "234 g"
+                                                            },
+                                                            {
+                                                                "specificationtype": "Warranty",
+                                                                "warrantysummary": "1 Year Manufacturer Warranty for Device and 6 Months for Accessories",
+                                                                "warrantyduration": "1 Year"
+                                                            }
+                                                        ]
+                                                    }
+                                                    
 
 
 
